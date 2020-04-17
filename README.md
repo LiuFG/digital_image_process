@@ -4,7 +4,7 @@
 
 1. 学习用书： 数字图像处理 MATLAB 版 冈萨雷斯著
 
-   > 推荐两本书,一本偏理论, 一本偏代码实战(Matlab), 打包下载地址:
+   > 推荐两本书,一本偏理论, 一本偏代码实战(Matlab), 打包下载地址: https://download.csdn.net/download/talender/12335411
    >
    > 偏理论: \<数字图像处理\_第三版\_冈萨雷斯\>
    >
@@ -12,8 +12,8 @@
    >
    > 包含书里的图片素材
 
-2. 学习内容： 第 1 章、 第 2 章、 第 3 章、 第 6 章、 第 9 章的 9.1~9.3 小节、
-   第 10 章的 10.1~10.3 小节、 第 11 章的 11.1~11.2 小节
+2. 学习内容： 第 1 章、 第 2 章、 第 3 章、 第 6 章、 第 9 章的 9.1\~9.3 小节、
+   第 10 章的 10.1\~10.3 小节、 第 11 章的 11.1~11.2 小节
 
 3. 学习要求：为了增强理解，需要根据自己对方法的理解编写相应的 matlab程 序，
    书中的示例程序可以作为参考。
@@ -21,16 +21,27 @@
 4. 图像处理高阶算法
    学 习 内 容 ： SIFT[1], LBP[2], BoW[3], affine transformation[4], similarity
    transformation[5]
+   
    [1] material: https://blog.csdn.net/zddmail/article/details/7521424
+   
    code: https://github.com/sun11/sw-sift (matlab 版)
+   
    https://github.com/paulaner/SIFT (python 版)
+   
    [2] material: https://blog.csdn.net/heli200482128/article/details/79204008
+   
    code: https://github.com/michael92ht/LBP （ python 版）
+   
    https://github.com/bikz05/texture-matching （ python 版）
+   
    [3] material: https://blog.csdn.net/tiandijun/article/details/51143765
+   
    code: https://github.com/qijiezhao/SIFT_BOW_Usage （ python 版）
+   
    https://github.com/lucifer726/bag-of-words- （ python 版）
+   
    [4] material: https://www.cnblogs.com/ghj1976/p/5199086.html
+   
    [5] material: https://blog.csdn.net/u014096352/article/details/53526747
 
 ## 说明 
@@ -39,6 +50,8 @@
 除了MATLAB代码，加入相关Python3代码。其中使用[opencv-python](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)，
 [pillow（PIL）](https://pillow.readthedocs.io/en/latest/handbook/index.html)，
 [skimage](https://scikit-image.org/docs/dev/user_guide)等工具。     
+
+> 很久之前的笔记, 适合CV初学者进行学习
 
 ## 内容列表（已完成）     
 
