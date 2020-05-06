@@ -4,7 +4,9 @@
 
 1. 学习用书： 数字图像处理 MATLAB 版 冈萨雷斯著
 
-   > 推荐两本书,一本偏理论, 一本偏代码实战(Matlab), 打包下载地址: https://download.csdn.net/download/talender/12335411
+   > 推荐两本书,一本偏理论, 一本偏代码实战(Matlab), 打包下载地址: 链接：https://pan.baidu.com/s/1Ir3vW_GwTOXbX-QIHkLkxA 
+   > 提取码：nd2a 
+   > 
    >
    > 偏理论: \<数字图像处理\_第三版\_冈萨雷斯\>
    >
